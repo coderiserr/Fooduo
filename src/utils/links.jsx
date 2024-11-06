@@ -1,0 +1,3 @@
+export const logoLink="https://www.designmantic.com/logo-images/171406.png?company=Company%20Name&keyword=food%20delivery&slogan=&verify=1"
+ export const CDN_Link= "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/"
+ export const MENU_LINK="https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=12.9352403&lng=77.624532&restaurantId="
